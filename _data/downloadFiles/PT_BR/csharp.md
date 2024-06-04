@@ -1,18 +1,18 @@
 # C#
 ## Nivel 1
 - [ ] **C# - Fundamentos**:
-   - C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. O código fonte é compilado e gera a Intermediate Language (IL) que é interpretado pela máquina virtual Common Language Runtime (CLR). É projetada para funcionar na Common Language Infrastructure (CLI) da plataforma .NET Framework.
-   - Conhecer os tipos primitivos
-   - Declarar variáveis, considerando os diferentes tipos
-   - Usar estruturas condicionais ('if', 'else')
-   - Conhecer os operadores de atribuição e comparação
-   - Usar estruturas de repetição e laços ('while', 'for')
-   - Usar funções, passando parâmetros e argumentos
-   - Manipular métodos
-   - Manipular arrays e listas
-   - Obter dados de uma API
-   - Fazer chamadas assíncronas, etc
-   - Criar construtores
+   - [x] C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. O código fonte é compilado e gera a Intermediate Language (IL) que é interpretado pela máquina virtual Common Language Runtime (CLR). É projetada para funcionar na Common Language Infrastructure (CLI) da plataforma .NET Framework.
+   - [x] Conhecer os tipos primitivos
+   - [x] Declarar variáveis, considerando os diferentes tipos
+   - [x] Usar estruturas condicionais ('if', 'else')
+   - [x] Conhecer os operadores de atribuição e comparação
+   - [x] Usar estruturas de repetição e laços ('while', 'for')
+   - [x] Usar funções, passando parâmetros e argumentos
+   - [x] Manipular métodos
+   - [x] Manipular arrays e listas
+   - [x] Obter dados de uma API
+   - [ ] Fazer chamadas assíncronas, etc
+   - [x] Criar construtores
 - [ ] **Conceitos de Orientação a Objetos**:
    - A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo.
    - Como funcionam objetos
